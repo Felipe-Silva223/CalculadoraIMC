@@ -21,4 +21,4 @@ Este é um projeto simples de uma Calculadora 🖩 de Índice de Massa Corporal 
 
 ## 👤 Meu LinkedIn
 [Felipe Silva](https://www.linkedin.com/in/felipe-silva-127503198/)
-# CalculadoraIMC
+
